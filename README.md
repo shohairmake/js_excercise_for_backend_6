@@ -11,11 +11,11 @@
 
 - 以下の「課題をクリアするためのステップ」の内容を全て対応する
 - 対応後、ターミナルで「npm start」を実行してサーバー起動後、完成形と同じような表示をブラウザで確認できるようにする
-- クイズアプリの内容は、JavaScriptフロントエンド編の課題である「[【エクササイズ】async/awaitを使ってクイズアプリを作る](https://tsuyopon.xyz/learning-contents/web-dev/javascript/frontend/js-excercise-for-frontend-9/)」と同じものを作る
+- クイズアプリの内容は、JavaScriptフロントエンド編の課題である「[【エクササイズ】async/awaitを使ってクイズアプリを作る](https://tsuyopon.xyz/learning-contents/web-dev/javascript/frontend/js-excercise-for-frontend-9/)」と似た内容のものを作る
     - ただし、今回は `htmlファイル` を作らず、expressで生成されたViewを使う
 
 ### 課題をクリアするためのステップ
-ｖ
+
 1. [ ] package.jsonを作る
 1. [ ] node_modulesをgitのバージョン管理から除外する
 1. [ ] 必要なライブラリをインストールする
@@ -33,7 +33,7 @@
     - [ ] `router.get('/')` のときは、ブラウザにトップページを表示する(上の画像を参照にする)
     - [ ] `router.get('/quiz')` のときは、ブラウザにクイズページを表示する
     - [ ] `router`を `module.exports` して、外部ファイルから `router` を読み込めるようにする
-1. 静的ファイルの保存用に `public` ディレクトリをプロジェクトのルートディレクトリ直下に作成する
+1. [ ] 静的ファイルの保存用に `public` ディレクトリをプロジェクトのルートディレクトリ直下に作成する
 1. [ ] トップページとクイズページ共通で使う `styles.css` を作成する (保存場所は `public/css/styles.css` とする)
     - `styles.css` の内容は「[【エクササイズ】async/awaitを使ってクイズアプリを作る](https://tsuyopon.xyz/learning-contents/web-dev/javascript/frontend/js-excercise-for-frontend-9/)」で作ったものを参考にする
 1. [ ] クイズページでのみ使うJavaScriptファイルを作成する (保存場所は `public/js/main.js` とする)
