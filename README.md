@@ -1,6 +1,6 @@
 # レポジトリ内容
 
-このレポジトリは[Web白熱教室](https://tsuyopon.xyz/)の[JavaScriptの学習コンテンツ > JavaScriptバックエンド編](https://tsuyopon.xyz/learning-contents/web-dev/javascript/backend/)にある「[【エクササイズ】クイズアプリを作る](https://tsuyopon.xyz/learning-contents/web-dev/javascript/backend/js-excercise-for-backend-6/)」で利用するものです。
+このレポジトリは[Web白熱教室](https://tsuyopon.xyz/)の[JavaScriptの学習コンテンツ > JavaScriptバックエンド編](https://tsuyopon.xyz/learning-contents/web-dev/javascript/backend/)にある「[【エクササイズ】expressを使ってクイズアプリを作る](https://tsuyopon.xyz/learning-contents/web-dev/javascript/backend/js-excercise-for-backend-6/)」で利用するものです。
 
 
 ### 完成形
