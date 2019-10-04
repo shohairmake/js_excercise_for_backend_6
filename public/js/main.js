@@ -98,7 +98,7 @@
     };
 
     const unescapeHTML = (str) => {
-        var div = document.createElement("div");
+        const div = document.createElement("div");
         div.innerHTML = str.replace(/</g,"&lt;")
                            .replace(/>/g,"&lt;")
                            .replace(/ /g, "&nbsp;")
